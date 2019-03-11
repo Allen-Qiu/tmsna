@@ -4,3 +4,8 @@
 (1)netcrawler是一个网络爬虫的eclipse项目
 
 (2)maincontents是抽取网页主内容示例程序
+
+
+https://pan.baidu.com/s/1O4BLZxdpFKAv16mgcrbE6g
+提取码：bbsj
+
