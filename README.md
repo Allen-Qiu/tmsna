@@ -5,7 +5,5 @@
 
 (2)maincontents是抽取网页主内容示例程序
 
-
-https://pan.baidu.com/s/1O4BLZxdpFKAv16mgcrbE6g
-提取码：bbsj
+(3) keywordsExtraction.zip是文本分析一章的算法。是eclipse工程
 
