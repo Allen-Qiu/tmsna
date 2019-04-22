@@ -9,4 +9,6 @@
 
 (4) reuter R8.zip是路透社语料库. https://pan.baidu.com/s/1tKWs_4gxIjYLMIcXCD-DXg 提取码：660j
 
-（5）人大报告数据集https://pan.baidu.com/s/1PB3_2TdBocZQYF1Q5cFcwg 提取码：3ic3
+(5) 人大报告数据集https://pan.baidu.com/s/1PB3_2TdBocZQYF1Q5cFcwg 提取码：3ic3
+
+(6) Test2019Reuter.java是在路透社语料库上进行检索的程序；Test2019rdbg.java是在42年政府工作报告上进行检索的程序
