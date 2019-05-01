@@ -12,3 +12,6 @@
 (5) 人大报告数据集https://pan.baidu.com/s/1PB3_2TdBocZQYF1Q5cFcwg 提取码：3ic3
 
 (6) Test2019Reuter.java是在路透社语料库上进行检索的程序；Test2019rdbg.java是在42年政府工作报告上进行检索的程序
+
+(7) 作为搜索引擎项目需要的WWW会议论文集，链接：https://pan.baidu.com/s/1cyE_qr4cGSvulDwalBvySg 提取码：9sxy 
+
