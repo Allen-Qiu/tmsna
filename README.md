@@ -16,3 +16,6 @@
 (7) 作为搜索引擎项目需要的WWW会议论文集，链接：https://pan.baidu.com/s/1cyE_qr4cGSvulDwalBvySg 提取码：9sxy 
 
 (8) 下载一个TextMiner项目 链接：https://pan.baidu.com/s/1GyqWEr_Y4w6_jAFqTLN4gQ 提取码：kx8g 
+
+(9) TextMine所需要的包 链接：https://pan.baidu.com/s/1y_OHRlCmbsRIIkXKF-6HMQ 提取码：nkky 
+
