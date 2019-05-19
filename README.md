@@ -20,3 +20,5 @@
 (9) TextMine所需要的包 链接：https://pan.baidu.com/s/10-DaP1FyfKRw61h7jbGQ9g 提取码：1b0d 
 
 (10) Mallet的包 链接：https://pan.baidu.com/s/1HMuM8PeK9j8iT1qJaBk03Q  提取码：skju 
+
+(11) 使用Mallet包的LDA模型的例子
