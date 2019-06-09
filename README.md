@@ -22,3 +22,5 @@
 (10) Mallet的包 链接：https://pan.baidu.com/s/1HMuM8PeK9j8iT1qJaBk03Q  提取码：skju 
 
 (11) 使用Mallet包的LDA模型的例子
+
+(12) community_detection.zip是基于NMF和图上随机游走的社区检测算法和示例程序
