@@ -1,1 +1,11 @@
+这三个文件是使用lucene8.8的版本，建立的在英文数据集（路透社语料库）、中文数据集（人大政府工作报告）构建信息检索的例子。
+example4highlighter.java是实现highlighter的例子。
 
+所有三个文件用到的jar包包括
+lucene-analyzer-common-8.8.1.jar
+lucene-core-8.8.1.jar
+lucene-queryparser-8.8.1.jar
+lucene-analyzer-smartcn-8.8.1.jar
+lucene-highlighter-8.8.1.jar
+lucene-memory-8.8.1.jar
+cfile-1.4.jar
