@@ -8,4 +8,4 @@ lucene-queryparser-8.8.1.jar
 lucene-analyzer-smartcn-8.8.1.jar
 lucene-highlighter-8.8.1.jar
 lucene-memory-8.8.1.jar
-cfile-1.4.jar
+cfile-1.4.jar    // maincontent 文件夹下有该jar包
